@@ -1,0 +1,41 @@
+#RegistrationForm {
+  background-color: blue;
+  text-align: center;
+}
+
+#FullName{
+  color: darkblue;
+  background-color:lightgray;
+  padding: 5px;
+  padding-bottom: 2px;
+  padding-top: 5px;
+ 
+}
+
+#password{
+  color: darkblue;
+  background-color:lightgray;
+  padding: 5px;
+  padding-bottom: 2px;
+  padding-top: 5px;
+
+}
+
+#submit{
+  color:solid red;
+  background-color: blue;
+}
+
+#Fillertext{
+  color: blue;
+
+}
+
+#p{
+  color: blue;
+
+}
+
+#h1{
+  color: red;
+}
